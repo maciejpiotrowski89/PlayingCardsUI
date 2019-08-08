@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PlayingCards",
+        "repositoryURL": "https://github.com/paciej00/PlayingCards.git",
+        "state": {
+          "branch": null,
+          "revision": "6b2fe01c2695f83b53f559841c5e42ed1c567966",
+          "version": "0.0.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
