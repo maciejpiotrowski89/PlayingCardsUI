@@ -1,3 +1,3 @@
 # PlayingCardsUI
 
-A description of this package.
+A framework conotaining view for a Playing Card. Uses `SwiftUI`
