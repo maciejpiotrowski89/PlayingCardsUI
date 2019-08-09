@@ -2,9 +2,6 @@ import SwiftUI
 import PlayingCards
 
 public struct PlayingCardView : View, CardContaining {
-    private let ratio: CGFloat = 1.4
-    private let width: CGFloat = 200
-    private var height: CGFloat { return width * ratio }
     let card: Card
     
     public init(card: Card) {

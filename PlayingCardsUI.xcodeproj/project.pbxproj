@@ -21,6 +21,7 @@
 		793029DC22FCB7C100352F5D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 793029DB22FCB7C100352F5D /* Preview Assets.xcassets */; };
 		793029DF22FCB7C100352F5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793029DD22FCB7C100352F5D /* LaunchScreen.storyboard */; };
 		793029EC22FCC4C000352F5D /* Card+Extensin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793029EB22FCC4C000352F5D /* Card+Extensin.swift */; };
+		79CC420122FCCE8E007FA5B3 /* JumboIndexPlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79CC420022FCCE8E007FA5B3 /* JumboIndexPlayingCardView.swift */; };
 		OBJ_35 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_20 /* Card.swift */; };
 		OBJ_36 /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_21 /* Deck.swift */; };
 		OBJ_37 /* Rank.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_22 /* Rank.swift */; };
@@ -72,6 +73,7 @@
 		793029DE22FCB7C100352F5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		793029E022FCB7C100352F5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		793029EB22FCC4C000352F5D /* Card+Extensin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Card+Extensin.swift"; sourceTree = "<group>"; };
+		79CC420022FCCE8E007FA5B3 /* JumboIndexPlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumboIndexPlayingCardView.swift; sourceTree = "<group>"; };
 		OBJ_15 /* PlayingCardsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardsUI.swift; sourceTree = "<group>"; };
 		OBJ_20 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		OBJ_21 /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 			children = (
 				OBJ_15 /* PlayingCardsUI.swift */,
 				793029C622FC8A8300352F5D /* PlayingCardView.swift */,
+				79CC420022FCCE8E007FA5B3 /* JumboIndexPlayingCardView.swift */,
 				793029C822FC8B3600352F5D /* RoyalPeepView.swift */,
 				793029CA22FCB54500352F5D /* RankView.swift */,
 				793029C422FC8A4400352F5D /* SuitPatternView.swift */,
@@ -385,6 +388,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
+				79CC420122FCCE8E007FA5B3 /* JumboIndexPlayingCardView.swift in Sources */,
 				793029BE22FC897800352F5D /* Suit+Extension.swift in Sources */,
 				793029CB22FCB54500352F5D /* RankView.swift in Sources */,
 				793029C722FC8A8300352F5D /* PlayingCardView.swift in Sources */,
